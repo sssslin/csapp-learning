@@ -3,7 +3,9 @@
 
 ## 简单说明
 
-- sample目录用来存放书里涉及到的示例代码
+- sample目录用来存放书里涉及到的示例代码，
+  - code-all.tar，除了源码还包含Makefile、头文件，可自己编译
+  - code.tar,仅包含源码
 
 - exercise用来存放我自己的补充练习代码
 
